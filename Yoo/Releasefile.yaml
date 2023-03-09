@@ -10,7 +10,7 @@ metadata:
 spec:
 - folderVariables:
   - type: xlrelease.BooleanVariable
-    key: folder.grid_deploy_manual
+    key: folder.grid_deploy_manual2
   - type: xlrelease.StringVariable
     key: folder.abu_push_panmanager_version
     value: 1.29.0
